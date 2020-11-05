@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ReadTrack</string>
+    <string name="add_book">Add a Book</string>
+    <string name="book1_title"></string>
+    <string name="book2_title"></string>
+    <string name="book3_title"></string>
+    <string name="book4_title"></string>
+    <string name="book5_title"></string>
+    <string name="delete_button">X</string>
+    <string name="book_name_edit">Book Name</string>
+    <string name="start_page_edit">Current Page</string>
+    <string name="total_page_edit">Total Pages</string>
+    <string name="days_edit">Days to Finish</string>
+    <string name="add_title">Add Book</string>
+    <string name="create_button">Create</string>
+    <string name="channel_name">ReadTrack</string>
+    <string name="book_1_title_key"></string>
+    <string name="book_1_start_key"></string>
+    <string name="book_1_total_key"></string>
+    <string name="book_1_days_key"></string>
+</resources>
